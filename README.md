@@ -1,6 +1,6 @@
 # Geometric Elamite
 
-Music (midi and mp3) as explained in the paper "Musical Structure of Geometric Elamite" and the script that was used to generate figure 7. You may listen to the mp3s easily [here](https://soundcloud.com/0xabad1dea/sets/geometric-elamite). The soundfont used is Apple's "Persian Santoor."
+Music (midi and mp3) as explained in the paper ["Musical Structure of Geometric Elamite"](https://www.academia.edu/93268214/Musical_Structure_of_Geometric_Elamite) and the script that was used to generate figure 7. You may listen to the mp3s easily [here](https://soundcloud.com/0xabad1dea/sets/geometric-elamite). The soundfont used is Apple's "Persian Santoor."
 
 No attempt has been made to interpret the rhythm, only the pitch. The original tuning was most likely what we could call Pythagorean, but these renderings have been done with standard modern tuning because a Pythagorean one will sound Slightly Wrong to most listeners in a way that will detract from the musicality being conveyed.
 
